@@ -24,6 +24,4 @@ Below are the key observations that we make:
 
 ## Conclusion
 
-We believe opening an ice cream and surf shop in Oahu is sustainable. The temperature in June and December will \
-be attractive to visitors. As show in the attached summary snapshots on avarage, for both months, the temperature is \
-above 71 degrees.
+We believe opening an ice cream and surf shop in Oahu is sustainable. The temperature in June and December will be attractive to visitors. As show in the attached summary snapshots on avarage, for both months, the temperature is above 71 degrees.
